@@ -1,0 +1,12 @@
+=> Linking JavaScript file(s)
+=> Declare variables (Name and its value)
+    let name [Name of the variable] = 'MH Mamun' [Value of the variable];
+=> difference of var vs let vs const
+=> Convension of writing variables
+    - Variable names must start with a letter, an underscore (_) or a dollar sign ($).
+    - Variable names cannot start writing a number
+    - Variable names cannot contain special charecters and white space.
+    - Variables cannot be the same as reserved keywords such as if or const.
+    - By convention, JavaScript variable names are written in camelCase.
+    - Variables should be given descriptive names that indicate their content and usage (e.g. sellingPrice and costPrice rather than x and y).
+    - As JavaScript variables do not have set types, it can be useful to include an indication of the type in the name (e.g. orderNumber is obviously a numeric ID, whereas order could be an object, a string or anything else).
