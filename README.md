@@ -1,2 +1,2 @@
 # complete-modern-javascript
-Writing JavaScript code with modern syntax, structured, and formatted way that will help any beginners and intermediate JavaScript learners.
+Here you'll get modern JavaScript syntax in, a structured, and formatted way.
